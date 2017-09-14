@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeMatch", "RecipeMatch\RecipeMatch.csproj", "{E74288CB-8703-4A2C-8770-524FB2C388CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeMatchUnitTest", "RecipeMatchUnitTest\RecipeMatchUnitTest.csproj", "{EA020B48-E383-4888-B062-2D4357EBF310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E74288CB-8703-4A2C-8770-524FB2C388CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74288CB-8703-4A2C-8770-524FB2C388CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74288CB-8703-4A2C-8770-524FB2C388CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74288CB-8703-4A2C-8770-524FB2C388CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA020B48-E383-4888-B062-2D4357EBF310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA020B48-E383-4888-B062-2D4357EBF310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA020B48-E383-4888-B062-2D4357EBF310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA020B48-E383-4888-B062-2D4357EBF310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\ACT Project\RecipeMatch\RecipeMatch\bin\Release\RecipeMatch.exe.config
+C:\ACT Project\RecipeMatch\RecipeMatch\bin\Release\RecipeMatch.exe
+C:\ACT Project\RecipeMatch\RecipeMatch\bin\Release\RecipeMatch.pdb
+C:\ACT Project\RecipeMatch\RecipeMatch\bin\Release\Newtonsoft.Json.dll
+C:\ACT Project\RecipeMatch\RecipeMatch\bin\Release\Newtonsoft.Json.xml
+C:\ACT Project\RecipeMatch\RecipeMatch\obj\Release\RecipeMatch.csprojResolveAssemblyReference.cache
+C:\ACT Project\RecipeMatch\RecipeMatch\obj\Release\RecipeMatch.exe
+C:\ACT Project\RecipeMatch\RecipeMatch\obj\Release\RecipeMatch.pdb

@@ -1,0 +1,10 @@
+C:\ACT Project\RecipeMatch\RecipeMatchUnitTest\bin\Release\RecipeMatchUnitTest.dll
+C:\ACT Project\RecipeMatch\RecipeMatchUnitTest\bin\Release\RecipeMatchUnitTest.pdb
+C:\ACT Project\RecipeMatch\RecipeMatchUnitTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\ACT Project\RecipeMatch\RecipeMatchUnitTest\bin\Release\RecipeMatch.exe
+C:\ACT Project\RecipeMatch\RecipeMatchUnitTest\bin\Release\Newtonsoft.Json.dll
+C:\ACT Project\RecipeMatch\RecipeMatchUnitTest\bin\Release\RecipeMatch.pdb
+C:\ACT Project\RecipeMatch\RecipeMatchUnitTest\bin\Release\Newtonsoft.Json.xml
+C:\ACT Project\RecipeMatch\RecipeMatchUnitTest\obj\Release\RecipeMatchUnitTest.csprojResolveAssemblyReference.cache
+C:\ACT Project\RecipeMatch\RecipeMatchUnitTest\obj\Release\RecipeMatchUnitTest.dll
+C:\ACT Project\RecipeMatch\RecipeMatchUnitTest\obj\Release\RecipeMatchUnitTest.pdb
